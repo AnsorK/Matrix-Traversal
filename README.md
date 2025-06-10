@@ -16,6 +16,10 @@ Activate:
 ```
 $ source venv/Scripts/activate
 ```
+Add packages:
+```
+$ python -m pip install -r requirements.txt
+```
 Deactivate:
 ```
 $ deactivate
